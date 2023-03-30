@@ -8,7 +8,7 @@ import puppeteer from "puppeteer";
 // import puppeteer from "puppeteer";
 
 const glassString =
-  'Length (L): 71 7/8" X Width (W): 24" Inch Mirror Rectangle Shaped 1/8" Thick Standard Mirror Flat Polished Edges';
+  'Length (L): 71 7/8" X Width (W): 24" Inch Mirror Rectangle Shaped 1/8" Thick Standard Mirror Flat Polished Ed    ges';
 
 const glassProperties = {
   glassType: null,
